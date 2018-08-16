@@ -1,1 +1,1 @@
-automatic classifier usind Automl for  watertreatment
+automatic classifier using Automl for  watertreatment
